@@ -1,5 +1,5 @@
 # yuri
-Yuri is a fancy zipless sweater based on the Huey & Hugo hoodies #freesewing #freesewingHuey #freesewingHugo
+Yuri is a fancy zipless cardigan based on the Huey & Hugo hoodies #freesewing #freesewingHuey #freesewingHugo
 
 
 >
