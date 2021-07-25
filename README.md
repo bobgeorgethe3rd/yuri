@@ -64,7 +64,6 @@ Follow this set of steps twice, once for the outer hood and again for the inside
 * Working around to the front, pin the hood to the neckline.
 * Match the good side of the neck binding to the outer neckline (this will be the inside of the hood). Pin the binding to the hood.
 * Serge or zig-zag all layers together with 1cm seam allowance. Check around the neckline to make sure all layers were caught by the stitching.
-* Reinforce the points where the neckline intersects with the sleeve seams. Use a straight stitch on the sewing machine to stabilize these seams.
 * From the outside, topstitch along and approx 1cm away from the neck edge to catch and secure the binding with a straight stitch. 
 * Trim excess binding from the inside.
 
