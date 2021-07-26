@@ -3,7 +3,7 @@ Yuri is a fancy zipless cardigan based on the Huey & Hugo hoodies #freesewing #f
 
 Try it here : https://yuri-pattern.netlify.app/
 
-<img src="yuri.svg" alt="preview of Yuri" width="200"/>
+<img src="yuri.svg" alt="preview of Yuri hoodie" width="200"/>
 
 [![NPM](https://img.shields.io/npm/v/yuri.svg)](https://www.npmjs.com/package/yuri) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
