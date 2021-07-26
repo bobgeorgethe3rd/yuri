@@ -31,10 +31,10 @@ Repeat with the other front part and the other shoulder of the back.
 - To finish the seam, you can use one of these methods:
   - Use a serger to sew and finish the seam in one step. This is fast and convenient, but produces a less-refined look.
   - If you do not have a serger, or would like a more refined look, sew a seam with a straight stitch on your conventional machine. Press the seam allowances apart on the wrong side. Then, edgestitch along both sides of the seam from the right side. Finally, trim the excess seam allowance. This produces a refined look, but takes longer.
-  - Another serger-free option is to sew the seam with a straight stitch. Then stitch together the seam allowances with an additional
+  - Another serger-free option is to sew the seam with a straight stitch. Then stitch together the seam allowances with an additional line of zig-zag alongside the straight stitch. Finally, trim the excess seam allowance. This simulates what a serger would do.
 
 ### Step 3 : Hem the cuffs
-As this pattern does not use ribbing by default, make a hem on the end of the sleeves to end it nicely.
+As this pattern does not use ribbing, make a hem on the end of the sleeves to end it nicely.
 
 ### Step 4: Close the Sides
 - Match the good sides together along sides and sleeves.
