@@ -64,8 +64,8 @@ On the pattern the back notch is marked as a cross-notch. It is recommended to m
 
 <Note>
 
-If you prefer to hem your sleeves after sewing the side seams you can do this step after **Step 5**.
-You can skip the overcasting if using a twin needle, coverstitch machine or if you wish to leave the edge raw when hemming. 
+If you prefer to hem your sleeves after sewing the side seams you can do this step after **Step 5**.  
+You can skip the overcasting if using a twin needle, coverstitch machine or if you wish to leave the edge raw when hemming.  
 This is just one hemming method, if you prefer another way go for it.
   
 </Note>
@@ -103,8 +103,8 @@ It is recommended to use **Finishing Method 1** for this step regardless of whet
  
 <Note>
   
-When pressing you want to make sure that the outer fabric folds a little bit to the inside. This will help prevent the lining from peaking out of the hood when topstitched.
-If you do not wish to have the decorative rim, you may still want to understitch the lining so it does not peak to the outside.
+When pressing you want to make sure that the outer fabric folds a little bit to the inside. This will help prevent the lining from peaking out of the hood when topstitched.  
+If you decide not to have the decorative rim, you may still want to understitch the lining so it does not peak to the outside.
   
 </Note>
 
@@ -117,7 +117,7 @@ If you do not wish to have the decorative rim, you may still want to understitch
 
 <Note>
   
-Whilst marked optional, it is recommended to do this step as it creates a neater and stronger finish around the neck.
+Whilst marked optional, it is recommended to do this step as it creates a neater and stronger finish around the neck.  
 You can also make a folded band so the neckband does not have a raw edge but this may be bulky. You will also need to make sure the folded edge extends slightly longer than 1cm to be caught when attaching and topstitching the hood but not so long that it flaps about.
   
 </Note>  
@@ -139,7 +139,7 @@ If using a overlocker/serger to attach the hood you may want to attach bulky are
 </Warning>
 <Note>
   
-If you are worried that topstitching the neckband with a straight stitch will not give enough stretch you can always topstitch it with a narrow zig-zag or appropriate stretch stitch of your choosing.
+If you are worried that topstitching the neckband with a straight stitch will not give enough stretch you can always topstitch it with a narrow zig-zag or appropriate stretch stitch of your choosing.  
 If you are not using a neckband you will want to finish the seam with **Finishing Method 2** and topstitch with 6mm (1/4 inch) instead of 1cm (3/8 inch). 
   
 </Note>
